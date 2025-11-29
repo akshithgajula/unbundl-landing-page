@@ -203,14 +203,14 @@ body {
 }
 
 .safety-section{
-    background-image: url("images/Frame 260934832.png");
+    background-image: url("feature1.png");
     background-size: cover;
     height: 42vh;
     width: 25vw;
 }
 
 .cleanliness{
-    background-image: url("images/Frame 260934831.png");
+    background-image: url("feature2.png");
     background-size: cover;
     height: 42vh;
     width: 25vw;
@@ -218,7 +218,7 @@ body {
 }
 
 .apis{
-    background-image: url("images/Frame 260934830.png");
+    background-image: url("feature3.png");
     background-size: cover;
     height: 42vh;
     width: 25vw;
@@ -388,3 +388,4 @@ footer {
         grid-template-columns: repeat(2,1fr);
     }
 }
+
